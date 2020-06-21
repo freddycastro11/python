@@ -1,4 +1,4 @@
-#Parcial hecho por Freddy Castro
+#Parcial hecho por Freddy Castro Rosales
 from facebook_scraper import get_posts
 import csv
 
